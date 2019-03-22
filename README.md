@@ -1,9 +1,9 @@
 # sdlTracking
 
-## Building notes
+### Building notes
 
-## Running notes
+### Running notes
 
-## Data inputs
+### Data inputs
 See https://github.com/slava77/sdlTracking/wiki
 
